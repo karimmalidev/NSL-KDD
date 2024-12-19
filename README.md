@@ -6,7 +6,7 @@ NSL-KDD ML Model for Network Security Course
 - [ ] Apply at least one optimization algorithm for feature selection:
   - [ ] Genetic Algorithm (GA)
   - [ ] Ant Colony Optimization (ACO)
-  - [ ] Particle Swarm Optimization (PSO)
+  - [x] Particle Swarm Optimization (PSO)
 - [ ] Compare effectiveness of selected techniques in enhancing model performance.
 
 ## 2. Model Implementation
